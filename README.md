@@ -1,6 +1,6 @@
 # Standardizing Quantitative Visual Stratigraphy for Digital Archiving of Ice Cores
 
-**Authors:** [Your Name], Grayton Simanson  
+**Authors:** Gary Hoehne, Grayton Simanson  
 **Advisors:** Richard Nunn, Curt LaBombard  
 **Affiliation:** NSF Ice Core Facility / Center for Oldest Ice Exploration (COLDEX)  
 **Target Material:** Core AH2416 (26-meter core, Allan Hills 2024 Season)  
