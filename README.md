@@ -7,6 +7,13 @@
 
 ---
 
+## 📂 Conference Resources
+* 📄 **[Download Full-Resolution Digital Poster (PDF)](COLDEX_AllanHills_Poster.pdf)**
+* 💼 **[Connect with [Your Name] on LinkedIn](https://linkedin.com)**
+* 💼 **[Connect with Grayton Simanson on LinkedIn](https://linkedin.com)**
+
+---
+
 ## 📝 Introduction
 Ice cores preserve continuous records of past environmental and climatic conditions through variations in ice structure, chemistry, and physical properties. Visual stratigraphy represents one of the most fundamental datasets collected from an ice core, documenting features including annual layering, bubble distribution, fractures, dust horizons, melt features, and other englacial structures. These observations provide important context for interpreting complementary measurements, including electrical conductivity measurements (ECM), stable isotope analyses, geochemical measurements, and hyperspectral imaging (HSI).
 
