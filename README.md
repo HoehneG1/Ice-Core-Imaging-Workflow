@@ -34,12 +34,13 @@ A[Archived or Newly Collected Ice Core Section]
     --> B[Core Preparation]
 
 B --> C[Light Table Stabilization<br/>~10 minute warm-up]
-C --> D[Manual Visual Stratigraphy Logging<br/>1 mm depth resolution]
+
+C --> D[Manual Visual Stratigraphy Logging<br/>1 mm Depth Resolution]
 
 D --> E[Digital Image Acquisition]
 
-E --> F1[Transmitted Imaging<br/>Backlit<br/>Bubbles, layering, transparency]
-E --> F2[Reflected Imaging<br/>Sidelit<br/>Fractures, surface features]
+E --> F1[Transmitted Imaging<br/>Backlit<br/>Bubbles, Layering, Transparency]
+E --> F2[Reflected Imaging<br/>Sidelit<br/>Fractures, Surface Features]
 
 F1 --> G[RAW Image Storage<br/>Olympus ORF Files]
 F2 --> G
@@ -53,6 +54,7 @@ I --> J[Export 16-bit TIFF Files]
 J --> K[Fiji/ImageJ 1.54P]
 
 K --> L[Image Registration and Stitching]
+
 L --> M[Digital Core Mosaic Generation]
 
 M --> N[Quality Control]
@@ -80,7 +82,7 @@ R2 --> S
 R3 --> S
 R4 --> S
 R5 --> S
-
+```
 ---
 
 # Workflow Overview
