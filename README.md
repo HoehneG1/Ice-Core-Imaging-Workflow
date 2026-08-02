@@ -9,8 +9,8 @@
 
 ## 📂 Conference Resources
 * 📄 **[Download Full-Resolution Digital Poster (PDF)](COLDEX_AllanHills_Poster.pdf)**
-* 💼 **[Connect with [Your Name] on LinkedIn](https://linkedin.com)**
-* 💼 **[Connect with Grayton Simanson on LinkedIn](https://linkedin.com)**
+* 💼 **[Connect with Gary Hoehne on LinkedIn](https://www.linkedin.com/in/ghoehne/))**
+* 💼 **[Connect with Grayton Simanson on LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/gray-simanson-600a13217/))**
 
 ```mermaid
 flowchart LR
