@@ -122,12 +122,11 @@ The resulting digital visual stratigraphy records provide a foundation for integ
 This workflow was developed through the NSF COLDEX Research Experience for Undergraduates (REU) program. Questions regarding digital visual stratigraphy methods, workflow development, or potential collaboration are welcome.
 
 **Gary Hoehne**  
-NSF COLDEX REU Researcher  
+NSF COLDEX REU Student  
 [LinkedIn](https://www.linkedin.com/in/ghoehne/)
 
 **Grayton Simanson**  
-NSF COLDEX REU Researcher  
+NSF COLDEX REU Student  
 [LinkedIn](https://www.linkedin.com/in/gray-simanson-600a13217/)
 
-📬 *Interested in adapting this low-cost setup for your own repository or field season? Feel free to contact us or reach out during the poster session!*
 
