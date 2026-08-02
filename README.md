@@ -9,7 +9,7 @@
 
 ## 📂 Conference Resources
 * 📄 **[Download Full-Resolution Digital Poster (PDF)](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/COLDEX%20REU%20Poster_Hoehne.pdf)**
-*  📄 **[Download Full Workflow (PDF)](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/COLDEX%20REU%20Poster_Hoehne.pdf)**
+*  📄 **[Download Workflow (PDF)](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/COLDEX%20REU%20Poster_Hoehne.pdf)**
 * 💼 **[Connect with Gary Hoehne on LinkedIn](https://www.linkedin.com/in/ghoehne/)**
 * 💼 **[Connect with Grayton Simanson on LinkedIn](https://www.linkedin.com/in/gray-simanson-600a13217/)**
 
