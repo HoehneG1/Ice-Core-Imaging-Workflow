@@ -27,6 +27,61 @@ AH2416 — Allan Hills Blue Ice Area, Antarctica
 NSF COLDEX Research Experience for Undergraduates (REU)
 
 ---
+```mermaid
+flowchart TD
+
+A[Archived or Newly Collected Ice Core Section]
+    --> B[Core Preparation]
+
+B --> C[Light Table Stabilization<br/>~10 minute warm-up]
+C --> D[Manual Visual Stratigraphy Logging<br/>1 mm depth resolution]
+
+D --> E[Digital Image Acquisition]
+
+E --> F1[Transmitted Imaging<br/>Backlit<br/>Bubbles, layering, transparency]
+E --> F2[Reflected Imaging<br/>Sidelit<br/>Fractures, surface features]
+
+F1 --> G[RAW Image Storage<br/>Olympus ORF Files]
+F2 --> G
+
+G --> H[RAW Processing<br/>RawTherapee 5.12]
+
+H --> I[Lens Correction<br/>White Balance Verification<br/>Exposure Evaluation]
+
+I --> J[Export 16-bit TIFF Files]
+
+J --> K[Fiji/ImageJ 1.54P]
+
+K --> L[Image Registration and Stitching]
+L --> M[Digital Core Mosaic Generation]
+
+M --> N[Quality Control]
+
+N --> O1[Alignment Verification]
+N --> O2[Exposure Consistency]
+N --> O3[Scale Verification]
+N --> O4[Stratigraphic Feature Preservation]
+
+O1 --> P[Metadata Association]
+O2 --> P
+O3 --> P
+O4 --> P
+
+P --> Q[Archival Dataset]
+
+Q --> R1[RAW Images]
+Q --> R2[Processed TIFF Images]
+Q --> R3[Digital Mosaics]
+Q --> R4[Visual Stratigraphy Logs]
+Q --> R5[Metadata Tables]
+
+R1 --> S[Repository Transfer<br/>COLDEX / Polar Programs<br/>Globus]
+R2 --> S
+R3 --> S
+R4 --> S
+R5 --> S
+
+---
 
 # Workflow Overview
 ```mermaid
