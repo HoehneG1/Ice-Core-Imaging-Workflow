@@ -29,27 +29,25 @@ NSF COLDEX Research Experience for Undergraduates (REU)
 ---
 
 # Workflow Overview
-
 ```mermaid
 flowchart LR
 
 A[Ice Core Section]
 --> B[Visual Stratigraphy Logging]
 --> C[Standardized Imaging]
-
-C --> C1[Transmitted Imaging<br/>Backlit]
-C --> C2[Reflected Imaging<br/>Sidelit]
-
-C1 --> D[RAW Image Processing]
-C2 --> D
-
-D --> E[Fiji/ImageJ Stitching]
---> F[Digital Core Mosaic]
+--> D[RAW Processing]
+--> E[Fiji/ImageJ Stitching]
+--> F[Digital Mosaic]
 --> G[Quality Control]
 --> H[Metadata + Archive]
+--> I[Future Analysis]
 
-H --> I[Future Integration<br/>HSI, ECM, Geochemical Data]
+C --> C1[Backlit]
+C --> C2[Sidelit]
+
+H --> H1[Globus Repository]
 ```
+
 
 ---
 
@@ -117,39 +115,17 @@ The resulting digital visual stratigraphy records provide a foundation for integ
 
 ---
 
-# Contact
+## Contact and Collaboration
 
-Gary Hoehne  
-LinkedIn: [https://www.linkedin.com/in/ghoehne/]
+This workflow was developed through the NSF COLDEX Research Experience for Undergraduates (REU) program. Questions regarding digital visual stratigraphy methods, workflow development, or potential collaboration are welcome.
 
-Grayton Simanson  
-LinkedIn: [https://www.linkedin.com/in/gray-simanson-600a13217/]
+**Gary Hoehne**  
+NSF COLDEX REU Researcher  
+[LinkedIn](https://www.linkedin.com/in/ghoehne/)
 
-
-
-
-```mermaid
-flowchart LR
-
-A[Ice Core Section]
---> B[Visual Stratigraphy Logging]
---> C[Standardized Imaging]
---> D[RAW Processing]
---> E[Fiji/ImageJ Stitching]
---> F[Digital Mosaic]
---> G[Quality Control]
---> H[Metadata + Archive]
---> I[Future Analysis]
-
-C --> C1[Backlit]
-C --> C2[Sidelit]
-
-H --> H1[Globus Repository]
-```
-
-
-
-Although developed using AH2416 from the Allan Hills Blue Ice Area, Antarctica, the workflow is designed as a transferable framework for both archived and newly collected ice cores.
+**Grayton Simanson**  
+NSF COLDEX REU Researcher  
+[LinkedIn](https://www.linkedin.com/in/gray-simanson-600a13217/)
 
 📬 *Interested in adapting this low-cost setup for your own repository or field season? Feel free to contact us or reach out during the poster session!*
 
