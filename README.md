@@ -123,10 +123,10 @@ This workflow was developed through the NSF COLDEX Research Experience for Under
 
 **Gary Hoehne**  
 NSF COLDEX REU Student  
-[LinkedIn](https://www.linkedin.com/in/ghoehne/)
+[Email](mailto:ghoehne1@southernct.edu) | [LinkedIn](https://www.linkedin.com/in/ghoehne/)
 
 **Grayton Simanson**  
 NSF COLDEX REU Student  
-[LinkedIn](https://www.linkedin.com/in/gray-simanson-600a13217/)
+[Email](mailto:g_simanson2024@coloradocollege.edu) | [LinkedIn](https://www.linkedin.com/in/gray-simanson-600a13217/)
 
 
