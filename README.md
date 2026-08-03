@@ -81,8 +81,8 @@ This repository contains:
 - [Folder Structure](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/Folder%20Structure.PNG)  
 
 📁 **examples/**  
-- [Example Backlit Raw Photos](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/tree/main/Section%2014%20Back)
-- [Example Sidelit Raw Photos](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/tree/main/Section%2014%20BSide)
+- [Example backlit unprocessed](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/tree/main/Section%2014%20Back)
+- [Example sidelit unprocessed](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/tree/main/Section%2014%20Side)
 - [Example processed mosaics](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/tree/main/Mosaics) 
 - [Example visual stratigraphy products](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/tree/main/Core%20Logs)
 
