@@ -78,7 +78,7 @@ This repository contains:
 - [Camera Settings](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/Core%20Logging.PNG)
 - [Visual stratigraphy logging templates](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/Core%20Logging.PNG)   
 - [Metadata templates](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/Metadata%20Template.PNG)
-- [Folder Structure]  
+- [Folder Structure](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/Folder%20Structure.PNG)  
 
 📁 **examples/**  
 - [Example processed mosaics](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/tree/main/Mosaics) 
