@@ -60,11 +60,6 @@ H --> H1[Globus Repository]
 📄 **Full-Resolution Digital Poster (PDF)**  
 [2026 Coldex Poster](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/COLDEX%20REU%20Poster_Hoehne.pdf)
 
-## Workflow Documentation
-
-📄 **Complete Imaging and Processing Workflow (PDF)**  
-[Workflow Version 1.0]
-
 ---
 
 # Repository Contents
@@ -73,19 +68,20 @@ This repository contains:
 
 📁 **docs/**  
 - [Complete visual stratigraphy workflow documentation](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/Workflow%201.pdf)  
-- Imaging and processing methods  
+    
 
 📁 **figures/**  
 - [Workflow diagrams](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/tree/main/Workflow)  
 
 
 📁 **templates/**  
-- Visual stratigraphy logging templates  
-- Metadata templates  
+- [Visual stratigraphy logging templates]  
+- [Metadata templates]
+- [Folder Structure]  
 
 📁 **examples/**  
 - [Example processed mosaics](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/tree/main/Mosaics) 
-- [Example visual stratigraphy products](  
+- [Example visual stratigraphy products](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/tree/main/Core%20Logs)
 
 ---
 
