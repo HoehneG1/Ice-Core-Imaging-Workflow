@@ -75,7 +75,8 @@ This repository contains:
 
 
 📁 **templates/**  
-- [Visual stratigraphy logging templates]  
+- [Camera Settings](
+- [Visual stratigraphy logging templates](   
 - [Metadata templates](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/Metadata%20Template.PNG)
 - [Folder Structure]  
 
