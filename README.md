@@ -63,7 +63,7 @@ H --> H1[Globus Repository]
 ## Workflow Documentation
 
 📄 **Complete Imaging and Processing Workflow (PDF)**  
-[Workflow Version 1.0](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/Workflow%201.pdf)
+[Workflow Version 1.0]
 
 ---
 
@@ -72,7 +72,7 @@ H --> H1[Globus Repository]
 This repository contains:
 
 📁 **docs/**  
-- Complete visual stratigraphy workflow documentation  
+- [Complete visual stratigraphy workflow documentation](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/Workflow%201.pdf)  
 - Imaging and processing methods  
 
 📁 **figures/**  
