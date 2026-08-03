@@ -58,7 +58,7 @@ H --> H1[Globus Repository]
 ## Poster
 
 📄 **Full-Resolution Digital Poster (PDF)**  
-[https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/COLDEX%20REU%20Poster_Hoehne.pdf]
+https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/COLDEX%20REU%20Poster_Hoehne.pdf
 
 ## Workflow Documentation
 
