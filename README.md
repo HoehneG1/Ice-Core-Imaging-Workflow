@@ -85,7 +85,7 @@ This repository contains:
 
 📁 **examples/**  
 - [Example processed mosaics](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/tree/main/Mosaics) 
-- Example visual stratigraphy products  
+- [Example visual stratigraphy products](  
 
 ---
 
