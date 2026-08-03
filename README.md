@@ -58,12 +58,12 @@ H --> H1[Globus Repository]
 ## Poster
 
 📄 **Full-Resolution Digital Poster (PDF)**  
-https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/COLDEX%20REU%20Poster_Hoehne.pdf
+[2026 Coldex Poster](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/COLDEX%20REU%20Poster_Hoehne.pdf)
 
 ## Workflow Documentation
 
 📄 **Complete Imaging and Processing Workflow (PDF)**  
-https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/Workflow%201.pdf
+[Workflow Version 1.0](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/Workflow%201.pdf)
 
 ---
 
