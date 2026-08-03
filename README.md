@@ -63,7 +63,7 @@ https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/COLDEX%20REU%20P
 ## Workflow Documentation
 
 📄 **Complete Imaging and Processing Workflow (PDF)**  
-[Insert workflow PDF link here]
+https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/blob/main/Workflow%201.pdf
 
 ---
 
