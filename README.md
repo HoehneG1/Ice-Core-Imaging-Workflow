@@ -77,7 +77,7 @@ This repository contains:
 
 📁 **figures/**  
 - Workflow diagrams  
-- Example mosaic products  
+- [Example mosaic products](  
 
 📁 **templates/**  
 - Visual stratigraphy logging templates  
