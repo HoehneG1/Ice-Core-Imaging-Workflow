@@ -76,15 +76,15 @@ This repository contains:
 - Imaging and processing methods  
 
 📁 **figures/**  
-- Workflow diagrams  
-- [Example mosaic products](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/tree/main/Mosaics) 
+- [Workflow diagrams](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/tree/main/Workflow)  
+
 
 📁 **templates/**  
 - Visual stratigraphy logging templates  
 - Metadata templates  
 
 📁 **examples/**  
-- Example processed mosaics  
+- [Example processed mosaics](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/tree/main/Mosaics) 
 - Example visual stratigraphy products  
 
 ---
