@@ -77,7 +77,7 @@ This repository contains:
 
 📁 **figures/**  
 - Workflow diagrams  
-- [Example mosaic products](  
+- [Example mosaic products](https://github.com/HoehneG1/Ice-Core-Imaging-Workflow/tree/main/Mosaics) 
 
 📁 **templates/**  
 - Visual stratigraphy logging templates  
